@@ -16,7 +16,7 @@ A simple and interactive **Tic Tac Toe** game built using **React 19** and power
 ## 🧑‍💻 Installation & Running Locally
 
 ### 🔧 Steps
-
+```bash
 git clone [https://github.com/your-username/tic-tac-toe-react.git]
 cd tic-tac-toe-react
 npm install
