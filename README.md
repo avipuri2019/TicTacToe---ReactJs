@@ -14,6 +14,9 @@ A simple and interactive **Tic Tac Toe** game built using **React 19** and power
 
 
 ## 🧑‍💻 Installation & Running Locally
+## Live Demo
+https://tic-tac-toe-react-js-chi.vercel.app/
+
 
 ### 🔧 Steps
 ```bash
