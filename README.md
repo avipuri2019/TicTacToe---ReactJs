@@ -17,7 +17,7 @@ A simple and interactive **Tic Tac Toe** game built using **React 19** and power
 
 ### 🔧 Steps
 
-git clone https://github.com/your-username/tic-tac-toe-react.git
+git clone https://github.com/avipuri2019/TicTacToe---ReactJs
 cd tic-tac-toe-react
 npm install
 npm run dev
