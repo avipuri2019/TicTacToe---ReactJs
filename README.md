@@ -26,5 +26,6 @@ npm install
 npm run dev
 ```
 ## Preview
-![tictactoe](https://github.com/user-attachments/assets/76e9d7d9-85e6-4070-a3ee-37c745cc9f82)
-![tictoctoe-winner](https://github.com/user-attachments/assets/dc0c93ea-c691-407c-9d11-e9ed8850200c)
+
+![tictactoe](https://github.com/user-attachments/assets/03a589ec-6640-4e9d-aa3d-20faaef10c54)
+![tictoctoe-winner](https://github.com/user-attachments/assets/81b3a59b-d86f-4600-8375-073bf9a5b4d2)
